@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "vaddr_tracereader.h": "c",
+        "print_helpers.h": "c",
+        "cstdint": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
+}
